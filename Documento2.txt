@@ -1,0 +1,3 @@
+Edgar Alberto Nicolas Tolstoy Roth 4905870-7
+
+Se crea una nueva rama para la funcionalidad, cuando esta esta lista, se mergea con la rama de developer, cuando todo esta aprobado de realiza el merge a produccion.
