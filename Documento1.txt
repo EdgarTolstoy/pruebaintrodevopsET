@@ -1,0 +1,11 @@
+Edgar Albert Nicolas Tolstoy Roth, 4905870-7
+
+Habrian 5 ramas. Master, Release, Desarrollo, Funcionalidad, y Hotfix
+
+1. Una rama de desarrollo es creada desde Master
+2. Una rama de release es creada desde Desarrollo
+3. Las ramas de funcionalidades son creadas desde Desarrollo
+4. Cuando una funcionalidad es completada se fusiona hacia la rama de Desarrollo
+5. Cuando la rama Release está terminada se fusiona hacía Desarrollo y Master
+6. Si se detecta un error en Master se crea una rama HotFix desde Master
+7. Una vez que HotFix es completado se fusiona con Desarrollo y Master
